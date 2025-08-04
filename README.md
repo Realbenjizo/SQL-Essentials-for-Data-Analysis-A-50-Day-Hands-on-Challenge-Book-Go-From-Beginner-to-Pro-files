@@ -1,0 +1,1 @@
+# SQL-Essentials-for-Data-Analysis-A-50-Day-Hands-on-Challenge-Book-Go-From-Beginner-to-Pro-files
