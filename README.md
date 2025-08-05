@@ -32,8 +32,7 @@ Here’s a quick overview of the folders and files:
 | Folder/File | Description |
 |-------------|-------------|
 | `/datasets/` | CSV files used throughout the 50-day challenges. These include `animals.csv`, `sales_data.csv`, and others. |
-| `/solutions/` | SQL scripts (one per day) that contain the official solutions from the book. Each script is well-commented to help with learning. |
-| `notebooks/` | Optional SQL notebooks if you prefer working in environments like Google Colab or Jupyter. |
+| `/solutions/` | Notebook with solutions to the challenges to run in Colab or Jupyter. |
 | `README.md` | You’re reading it. 🙂
 
 ---
