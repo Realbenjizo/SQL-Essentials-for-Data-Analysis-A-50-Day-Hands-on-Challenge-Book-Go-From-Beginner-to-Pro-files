@@ -31,7 +31,7 @@ Here’s a quick overview of the folders and files:
 
 | Folder/File | Description |
 |-------------|-------------|
-| `/datasets/` | CSV files used throughout the 50-day challenges. These include `animals.csv`, `sales_data.csv`, and others. |
+| `/Datasets/` | CSV files used throughout the 50-day challenges. These include `animals.csv`, `sales_data.csv`, and others. |
 | `/solutions/` | Notebook with solutions to the challenges to run in Colab or Jupyter. |
 | `README.md` | You’re reading it. 🙂
 
