@@ -1,4 +1,4 @@
-# SQL Essentials for Data Analysis – 50 Days of Practice (Companion Files)
+# SQL Essentials for Data Analysis: A 50-Day Hands-on Challenge Book (Go From Beginner to Pro)  (Companion Files)
 
 Welcome! 👋  
 This repository contains all the companion files, datasets, and solutions used in the book **"SQL Essentials for Data Analysis: A 50-Day Hands-on Challenge Book."**
