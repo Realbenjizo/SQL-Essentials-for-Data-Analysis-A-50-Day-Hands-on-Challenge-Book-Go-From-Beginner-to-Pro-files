@@ -20,8 +20,8 @@ Solutions are provided right after each challenge to help you reflect, compare, 
 
 ### 👉 Get the Book
 
-📘 [Buy on Amazon](https://www.amazon.com/dp/YOUR_BOOK_LINK_HERE)  
-📘 [Buy on Gumroad](https://yourgumroadlink.com/sql-essentials)
+📘 [Buy on Amazon]([https://www.amazon.com/dp/YOUR_BOOK_LINK_HERE](https://www.amazon.com/dp/B0G1CNFGBK))  
+📘 [Buy on Gumroad]([https://benjaminb.gumroad.com/l/hkkmf])
 
 ---
 
