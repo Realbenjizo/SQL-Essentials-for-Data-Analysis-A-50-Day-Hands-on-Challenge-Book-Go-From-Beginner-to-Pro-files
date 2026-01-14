@@ -1,7 +1,7 @@
 # SQL Essentials for Data Analysis: A 50-Day Hands-on Challenge Book (Go From Beginner to Pro)  (Companion Files)
 
 Welcome! 👋  
-This repository contains all the companion files, datasets, and solutions used in the book **"SQL Essentials for Data Analysis: A 50-Day Hands-on Challenge Book."**
+This repository contains all the companion files, datasets, and solutions used in the book **"SQL Essentials for Data Analysis: A 50-Day Hands-on Challenge Book (Go From Beginner to Pro)."**
 
 Whether you're just starting out or want to sharpen your SQL skills with hands-on challenges, this repo will support your learning journey.
 
